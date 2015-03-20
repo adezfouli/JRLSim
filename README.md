@@ -1,4 +1,4 @@
-## Java-based Reinforcement-Learning Simulator (JRLSIm)
+## Java-based Reinforcement-Learning Simulator (JRLSim)
 
 This project is general reinforcement-learning framework for the simulation of RL agents.
 

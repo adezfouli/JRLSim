@@ -2,7 +2,7 @@
 
 This project is general reinforcement-learning framework for the simulation of RL agents.
 
-I developed this framework for the simulation of these this paper:
+I developed this framework for the simulation of this paper:
 
 > 1. [Habits, action sequences and reinforcement learning] (http://www.ncbi.nlm.nih.gov/pubmed/22487034)
 
